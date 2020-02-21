@@ -1,5 +1,9 @@
 # Instructions
 
+## Description
+
+Ford-Fulkerson and Push Relabel Algorithms return the max flow from a given source s to a given destination t.
+
 ## Run Locally
   ### 1. Ford-Fulkerson Algorithm
   
