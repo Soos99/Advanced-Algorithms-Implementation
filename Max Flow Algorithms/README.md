@@ -2,20 +2,8 @@
 
 ## Run Locally
   1. Ford-Fulkerson Algorithm
-   a. How to compile: 
-    
-          ```
-
-          $ javac fordFulkerson.java
-          ```
-      
-   b. How to run: 
-    
-      ```
-
-      $ java fordFulkerson
-
-      ```
+   a. How to compile: $ javac fordFulkerson.java
+   b. How to run: $ java fordFulkerson
    c. Input/Output: standard stdin/stdout
       - INPUT FORMAT: The first line contains k, the number of problems. The the description of the problem as follow:
         + The next line contains n (the number of vertices) and m (the number of edges).
