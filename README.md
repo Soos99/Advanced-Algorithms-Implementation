@@ -4,10 +4,10 @@ My current implementation of common advanced algorithms. Expected topics include
 Programming Language: Java
 
 ## List of Current Advanced Algorithms
-1. Max Flow:
+### 1. Max Flow:
   - Ford-Fulkerson Algorithm
   - Push Relabel Algorithm
-2. Linear Programming:
+### 2. Linear Programming:
   - Finding Feasible Linear System (first phase of Simplex Algorithm)
 
 ## To do:
@@ -15,7 +15,7 @@ Programming Language: Java
 
 ## Contact:
 
-Feel free to contact [me] (hle7@u.rochester.edu) with any questions, comments,
+Feel free to contact [me](hle7@u.rochester.edu) with any questions, comments,
 suggestions, bug reports, etc...
 
 
