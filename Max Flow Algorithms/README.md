@@ -33,13 +33,14 @@
   0
   
   ### 2. Push Relabel Algortihm
-    - How to compile: 
+  
+  #### a. How to compile: 
     ```
     
     $ javac pushRelabel.java
     
     ```
-    How to run: 
+  #### b. How to run: 
     ```
     
     $ java pushRelabel
