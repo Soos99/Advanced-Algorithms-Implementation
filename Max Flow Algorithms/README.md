@@ -1,4 +1,4 @@
-# Instructions:
+# Instructions
 
 ## Run Locally
   ### 1. Ford-Fulkerson Algorithm
