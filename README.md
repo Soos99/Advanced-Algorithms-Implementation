@@ -3,7 +3,7 @@ My current implementation of common advanced algorithms. Expected topics include
 
 Programming Language: Java
 
-## List of Current Advanced Algorithms
+## List of Current Topics/Advanced Algorithms
 ### 1. Max Flow:
   - Ford-Fulkerson Algorithm
   - Push Relabel Algorithm
