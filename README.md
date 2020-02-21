@@ -1,7 +1,7 @@
 # Advanced Algorithms Implementation (in progress)
 My current implementation of common advanced algorithms. Expected topics include max flow, linear/semidefinite programming, computational geometry, string algorithms, streaming algorithms.
 
-Programming Language: Java
+**Programming Language:** Java
 
 ## List of Current Topics/Advanced Algorithms
 ### 1. Max Flow:
