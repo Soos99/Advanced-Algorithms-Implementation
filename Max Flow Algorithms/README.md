@@ -11,7 +11,7 @@
              
             $ java fordFulkerson
    
-   #### c. Input/Output: standard stdin/stdout
+   #### c. Input/Output: Standard stdin/stdout
   
   INPUT FORMAT: The first line contains k, the number of problems. The the description of the problem as follow:
   + The next line contains n (the number of vertices) and m (the number of edges).
@@ -21,28 +21,25 @@
   OUTPUT FORMAT: The output contains one line for each problem - the value of the maximum s-t flow.
       
   EXAMPLE INPUT:
-  2
-  2 1
-  1 2
-  1 2 10
-  2 1
-  2 1
-  1 2 10
+  2  
+  2 1  
+  1 2  
+  1 2 10  
+  2 1  
+  2 1  
+  1 2 10  
   EXAMPLE OUTPUT:
-  10
-  0
+  10  
+  0  
   
   ### 2. Push Relabel Algortihm
   
   #### a. How to compile: 
-    ```
     
     $ javac pushRelabel.java
     
-    ```
   #### b. How to run: 
-    ```
     
     $ java pushRelabel
-    
-    ```
+  
+  #### c. Input/Output: Standard stdin/stdout
