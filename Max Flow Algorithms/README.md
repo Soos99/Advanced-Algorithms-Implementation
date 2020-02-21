@@ -1,15 +1,19 @@
 # Instructions:
 
 ## Run Locally
-  1. Ford-Fulkerson Algorithm
+  ### 1. Ford-Fulkerson Algorithm
   
-   a. How to compile: $ javac fordFulkerson.java
+   #### a. How to compile:
+            
+            $ javac fordFulkerson.java
    
-   b. How to run: $ java fordFulkerson
+   #### b. How to run: 
+             
+            $ java fordFulkerson
    
-   c. Input/Output: standard stdin/stdout
+   #### c. Input/Output: standard stdin/stdout
    
-      - INPUT FORMAT: The first line contains k, the number of problems. The the description of the problem as follow:
+ INPUT FORMAT: The first line contains k, the number of problems. The the description of the problem as follow:
         + The next line contains n (the number of vertices) and m (the number of edges).
         + The next line contains s and t with 1 <= s,t <= n (the source and the sink). 
         + Then m lines follow. Each line contains three integers u, v, c, where 1 <= u, v <= n and 1 ≤ c ≤ 1,000,000 (this means that
@@ -28,7 +32,7 @@
         EXAMPLE OUTPUT:
         10
         0
-  2. Push Relabel Algortihm
+  ### 2. Push Relabel Algortihm
     - How to compile: 
     ```
     
