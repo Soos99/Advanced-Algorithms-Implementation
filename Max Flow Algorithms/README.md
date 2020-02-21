@@ -2,6 +2,7 @@
 
 ## Run Locally
   1. Ford-Fulkerson Algorithm
+  
    a. How to compile: $ javac fordFulkerson.java
    b. How to run: $ java fordFulkerson
    c. Input/Output: standard stdin/stdout
