@@ -20,7 +20,7 @@
   
   **OUTPUT FORMAT:** The output contains one line for each problem - the value of the maximum s-t flow.
       
-  **EXAMPLE INPUT:  **
+  **EXAMPLE INPUT:**  
   2  
   2 1  
   1 2  
@@ -28,7 +28,7 @@
   2 1  
   2 1  
   1 2 10  
-  **EXAMPLE OUTPUT: ** 
+  **EXAMPLE OUTPUT:**  
   10  
   0  
   
